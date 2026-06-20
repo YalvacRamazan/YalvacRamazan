@@ -10,12 +10,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YalvacRamazan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YalvacRamazan&theme=tokyonight&layout=compact" alt="Top Languages" height="192px" />
-</p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/YalvacRamazan/YalvacRamazan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
